@@ -1,0 +1,23 @@
+body {
+    background: url(../img/forrest.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+
+}
+
+.table-responsive{
+    background: white;
+    margin-left: 550px;
+}
+
+
+.responsive-nav {
+    display: inline-block;
+}
+
+.control-label{
+    color: white;
+}
